@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){const e=document.querySelector(".navbar__logo").getElementsByTagName("img")[0];e&&(e.setAttribute("draggable","false"),e.setAttribute("oncontextmenu","return false;"))}));

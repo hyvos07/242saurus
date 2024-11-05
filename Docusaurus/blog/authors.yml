@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+hyvos07:
+  name: Daniel Liman
+  title: ハイボス
+  url: https://github.com/hyvos07
+  image_url: https://github.com/hyvos07.png
+
+zerothy:
+  name: Joe Mathew Rusli
+  title: ゼロシー
+  url: https://github.com/zerothy
+  image_url: https://github.com/zerothy.png
+
+henryak25:
+  name: Henry Aditya Kosasi
+  title: ヘンリー
+  url: https://github.com/henryak25
+  image_url: https://github.com/henryak25.png 

@@ -4,10 +4,31 @@
         <title>242saurus Blog</title>
         <link>https://hyvos.github.io/242saurus/blog/</link>
         <description>242saurus Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pop Quiz]]></title>
+            <link>https://hyvos.github.io/242saurus/blog/POP-QUIZ/</link>
+            <guid>https://hyvos.github.io/242saurus/blog/POP-QUIZ/</guid>
+            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is our POP QUIZ posting!]]></description>
+            <content:encoded><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- Joe and Daniel.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content:encoded>
+            <category>POPQUIZ</category>
+            <category>WEEK07</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://hyvos.github.io/242saurus/blog/welcome/</link>

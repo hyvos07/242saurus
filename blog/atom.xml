@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hyvos.github.io/242saurus/blog/</id>
     <title>242saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hyvos.github.io/242saurus/blog/"/>
     <subtitle>242saurus Blog</subtitle>
     <icon>https://hyvos.github.io/242saurus/img/furina.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://hyvos.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://hyvos.github.io/242saurus/blog/POP-QUIZ/"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- Joe and Daniel.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Daniel Liman</name>
+            <uri>https://github.com/hyvos07</uri>
+        </author>
+        <author>
+            <name>Joe Mathew Rusli</name>
+            <uri>https://github.com/zerothy</uri>
+        </author>
+        <author>
+            <name>Henry Aditya Kosasi</name>
+            <uri>https://github.com/henryak25</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://hyvos.github.io/242saurus/blog/welcome/</id>
